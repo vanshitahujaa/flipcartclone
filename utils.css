@@ -1,0 +1,21 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: blue; */
+    font-family: "lato";
+}
+.btn{
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 7px;
+   color: white; 
+   background-color: #287FF0;
+   cursor: pointer;
+}
+.my-2{
+    margin: 26px 0;
+}
+.text-center{
+    text-align: center;
+}
